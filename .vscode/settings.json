@@ -1,0 +1,4 @@
+{
+    "bladeFormatter.format.wrapLineLength": 3000,
+    "editor.renderWhitespace": "none"
+}
